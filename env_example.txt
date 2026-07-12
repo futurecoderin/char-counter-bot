@@ -1,5 +1,0 @@
-# Telegram Bot API Token (get it from @BotFather)
-TELEGRAM_BOT_TOKEN=your_bot_token_here
-
-# Optional: Public URL for deployment webhooks (e.g. https://yourusername.pythonanywhere.com)
-WEBHOOK_URL=
